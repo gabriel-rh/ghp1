@@ -1,0 +1,10 @@
+openshift-enterprise:
+  name: OpenShift Container Platform
+  author: OpenShift Documentation Project <openshift-docs@example.com>
+  site: commercial
+  site_name: Documentation
+  site_url: https://docs.openshift.example.com/
+  branches:
+    main:
+      name: latest
+      dir: latest

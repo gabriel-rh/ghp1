@@ -1,0 +1,6 @@
+:context: welcome-index
+[id="welcome-index"]
+= {product-title} {product-version} Documentation
+
+== test title
+test content
