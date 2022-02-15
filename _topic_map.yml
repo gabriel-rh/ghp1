@@ -28,3 +28,12 @@ Distros: openshift-enterprise
 Topics:
 - Name: Welcome
   File: index
+---
+Name: Architecture
+Dir: architecture
+Distros: openshift-enterprise
+Topics:
+- Name: Architecture overview
+  File: index
+- Name: Product architecture
+  File: architecture  

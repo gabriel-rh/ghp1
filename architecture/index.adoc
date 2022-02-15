@@ -1,0 +1,9 @@
+[id="architecture-overview"]
+= Architecture overview
+include::modules/common-attributes.adoc[]
+:context: architecture-overview
+
+toc::[]
+
+{product-title} is a cloud-based Kubernetes container platform.
+The foundation of {product-title} is based on Kubernetes and therefore shares the same technology.

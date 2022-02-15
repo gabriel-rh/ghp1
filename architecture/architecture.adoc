@@ -1,0 +1,9 @@
+[id="architecture"]
+= {product-title} architecture
+include::modules/common-attributes.adoc[]
+:context: architecture
+
+
+{op-system-first}  should be Red Hat Enterprise Linux CoreOS (RHCOS)
+{op-system}  should be RHCOS
+{op-system-base} should be RHEL
